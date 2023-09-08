@@ -1,7 +1,6 @@
 # Deneme
 
 ## Alt bilgi
-dsdssgssfsfsf
-dfsggsfsfsf
+f
 
 [google.com](http:/google.com)
